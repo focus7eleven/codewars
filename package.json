@@ -1,0 +1,27 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "BEAT DILIDILI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/focus7eleven/codewars.git"
+  },
+  "keywords": [
+    "codewars"
+  ],
+  "author": "kdot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/focus7eleven/codewars/issues"
+  },
+  "homepage": "https://github.com/focus7eleven/codewars#readme",
+  "devDependencies": {
+    "babel-jest": "^17.0.2",
+    "babel-polyfill": "^6.16.0",
+    "jest": "^17.0.2"
+  }
+}
