@@ -7,4 +7,4 @@ function smallest(n) {
   var lastIndex = bits.lastIndexOf(min);
 }
 
-smallest(261235);
+smallest(199819884756);
